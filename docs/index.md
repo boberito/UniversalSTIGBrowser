@@ -8,8 +8,8 @@ hero:
     src: /images/USB.png
     alt: Universal STIG Browser icon
 ---
-
-<!-- App Store Badge -->
+<!-- 
+App Store Badge
 <div class="app-store-badge">
   <a href="https://apps.apple.com/us/app/universal-stig-browser/idYOUR_APP_ID" target="_blank" rel="noopener">
     <img class="badge-light" src="/images/app-store-dark.svg" alt="Download on the App Store" height="50">
@@ -35,7 +35,7 @@ hero:
   </div>
 </div>
 
-<!-- Platform Screenshots -->
+<!-- Platform Screenshots
 <div class="screenshot-section">
   <div class="screenshot-card">
     <a href="/images/macOS-screenshot.png" target="_blank"><img src="/images/macOS-screenshot.png" alt="macOS Screenshot"></a>
@@ -71,7 +71,8 @@ hero:
   <p>Universal STIG Browser does not collect, store, or transmit any personal or device data. All processing is done locally on-device.</p>
 </div>
 
-<!-- Support -->
+<!-- Support
 <div class="support-info">
   <p style="text-align: center;">For support or feedback, <br>please file an issue on the <a href="https://github.com/boberito/UniversalSTIGBrowser" target="_blank">GitHub page.</a></p>
 </div>
+-->
