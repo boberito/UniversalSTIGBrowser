@@ -12,8 +12,8 @@ hero:
 <!-- App Store Badge -->
 <div class="app-store-badge">
   <a href="https://apps.apple.com/us/app/universal-stig-browser/idYOUR_APP_ID" target="_blank" rel="noopener">
-    <img class="badge-light" src="/images/app-store-dark.svg" alt="Download on the App Store" height="50">
-    <img class="badge-dark" src="/images/app-store-light.svg" alt="Download on the App Store" height="50">
+    <img class="badge-light" src="./images/app-store-dark.svg" alt="Download on the App Store" height="50">
+    <img class="badge-dark" src="./images/app-store-light.svg" alt="Download on the App Store" height="50">
   </a><p style="text-align: left; font-size: 0.95rem; margin-top: 0.5rem;">
   <strong>Requires:</strong> macOS 14+, iPadOS 17+, visionOS 2.0+
 </p>
@@ -38,17 +38,17 @@ hero:
 <!-- Platform Screenshots -->
 <div class="screenshot-section">
   <div class="screenshot-card">
-    <a href="/images/macOS-screenshot.png" target="_blank"><img src="/images/macOS-screenshot.png" alt="macOS Screenshot"></a>
+    <a href="./images/macOS-screenshot.png" target="_blank"><img src="./images/macOS-screenshot.png" alt="macOS Screenshot"></a>
     <h3>macOS</h3>
     <p>Multi-STIG comparison, profile filtering, offline support.</p>
   </div>
   <div class="screenshot-card">
-    <a href="/images/iPadOS-screenshot.png" target="_blank"><img src="/images/iPadOS-screenshot.png" alt="iPadOS Screenshot"></a>
+    <a href="./images/iPadOS-screenshot.png" target="_blank"><img src="./images/iPadOS-screenshot.png" alt="iPadOS Screenshot"></a>
     <h3>iPadOS</h3>
     <p>Touch-optimized STIG reading experience on the go.</p>
   </div>
   <div class="screenshot-card">
-    <a href="/images/visionOS-screenshot.png" target="_blank"><img src="/images/visionOS-screenshot.png" alt="visionOS Screenshot"></a>
+    <a href="./images/visionOS-screenshot.png" target="_blank"><img src="./images/visionOS-screenshot.png" alt="visionOS Screenshot"></a>
     <h3>visionOS</h3>
     <p>First-ever STIG viewer designed for spatial computing.</p>
   </div>
