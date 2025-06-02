@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 // test
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/UniversalSTIGBrowser/",
   title: "Universal STIG Browser",
   description: "Native DISA STIG Viewer for macOS, iPadOS, and visionOS",
   themeConfig: {
