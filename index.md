@@ -5,7 +5,7 @@ hero:
   name: "Universal STIG Browser 1.0"
   tagline: Native DISA STIG Viewer for the Apple platform.
   image:
-    src: /images/USB.png
+    src: ./images/USB.png
     alt: Universal STIG Browser icon
 ---
 
