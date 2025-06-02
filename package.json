@@ -1,0 +1,29 @@
+{
+  "name": "universalstigbrowser",
+  "version": "1.0.0",
+  "description": "DISA STIG Viewer for macOS, iPadOS, visionOS",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "serve": "vitepress serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boberito/UniversalSTIGBrowser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boberito/UniversalSTIGBrowser/issues"
+  },
+  "homepage": "https://github.com/boberito/UniversalSTIGBrowser#readme",
+  "dependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
