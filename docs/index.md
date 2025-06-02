@@ -9,7 +9,7 @@ hero:
     alt: Universal STIG Browser icon
 ---
 
-<!-- App Store Badge -->
+<!-- App Store Badge
 <div class="app-store-badge">
   <a href="https://apps.apple.com/us/app/universal-stig-browser/idYOUR_APP_ID" target="_blank" rel="noopener">
     <img class="badge-light" src="/images/app-store-dark.svg" alt="Download on the App Store" height="50">
@@ -18,7 +18,7 @@ hero:
   <strong>Requires:</strong> macOS 14+, iPadOS 17+, visionOS 2.0+
 </p>
 </div>
-
+ -->
 <!-- About Section -->
 <div class="about-section">
   <h2>About Universal STIG Browser</h2>
