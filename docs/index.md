@@ -38,17 +38,17 @@ hero:
 <!-- Platform Screenshots -->
 <div class="screenshot-section">
   <div class="screenshot-card">
-    <a href="/images/macOS-screenshot.png" target="_blank"><img src="/images/macOS-screenshot.png" alt="macOS Screenshot"></a>
+    <a href="/UniversalSTIGBrowser/images/macOS-screenshot.png" target="_blank"><img src="/images/macOS-screenshot.png" alt="macOS Screenshot"></a>
     <h3>macOS</h3>
     <p>Multi-STIG comparison, profile filtering, offline support.</p>
   </div>
   <div class="screenshot-card">
-    <a href="/images/iPadOS-screenshot.png" target="_blank"><img src="/images/iPadOS-screenshot.png" alt="iPadOS Screenshot"></a>
+    <a href="/UniversalSTIGBrowser/images/macOS-screenshot.png" target="_blank"><img src="/images/iPadOS-screenshot.png" alt="iPadOS Screenshot"></a>
     <h3>iPadOS</h3>
     <p>Touch-optimized STIG reading experience on the go.</p>
   </div>
   <div class="screenshot-card">
-    <a href="/images/visionOS-screenshot.png" target="_blank"><img src="/images/visionOS-screenshot.png" alt="visionOS Screenshot"></a>
+    <a href="/UniversalSTIGBrowser/images/visionOS-screenshot.png" target="_blank"><img src="/images/visionOS-screenshot.png" alt="visionOS Screenshot"></a>
     <h3>visionOS</h3>
     <p>First-ever STIG viewer designed for spatial computing.</p>
   </div>
