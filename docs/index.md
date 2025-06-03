@@ -23,7 +23,7 @@ hero:
 <div class="about-section">
   <h2>About Universal STIG Browser</h2>
   <p>
-    Universal STIG Browser is a native Apple platform app that lets users view, filter, and export Security Technical Implementation Guides (STIGs) published by the Department of Defense (DoD) Defense Information Systems Agency (DISA) for all platforms in XCCDF format on the DoD Cyber Exchange website (<a href="https://public.cyber.mil" target="_blank">https://public.cyber.mil</a>). It’s designed for federal compliance professionals, auditors, and cybersecurity teams working in macOS, iPadOS, and visionOS environments.
+    Universal STIG Browser is a native Apple platform app that allows users to open, view, filter, and export Security Technical Implementation Guides (STIGs) for <b>all supported platforms</b> — Windows, Linux, macOS, iOS, Android, and more — as published by the Department of Defense (DoD) Defense Information Systems Agency (DISA) for all DISA-supported platforms in XCCDF format on the DoD Cyber Exchange website (<a href="https://public.cyber.mil" target="_blank">https://public.cyber.mil</a>).
   </p>
 </div>
 
@@ -31,7 +31,7 @@ hero:
 <div class="feature-highlight">
   <div class="feature-text">
     <h2>Why Universal STIG Browser?</h2>
-    <p>Built for federal IT professionals, security teams, and auditors. Universal STIG Browser simplifies STIG viewing, comparison, and mobility across all Apple platforms.</p>
+    <p>Built for federal IT professionals, security teams, and auditors. Universal STIG Browser simplifies STIG viewing, comparison, and mobility across all Apple platforms.
   </div>
 </div>
 
