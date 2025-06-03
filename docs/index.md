@@ -32,7 +32,7 @@ hero:
   <div class="feature-text">
     <h2>Why Universal STIG Browser?</h2>
     <p>
-      Designed for federal IT professionals, security teams, and auditors, Universal STIG Browser makes it easy to view, compare, and export <strong>STIGs for all platforms</strong>—Windows, Linux, macOS, and more—directly on your Mac, iPad, or Vision Pro. Built to streamline compliance work while using the Apple ecosystem with full support for XCCDF-format STIGs.
+      Designed for federal IT professionals, security teams, and auditors, Universal STIG Browser makes it easy to view, compare, and export <strong>STIGs for all platforms</strong>—Windows, Linux, macOS, and more—on your Mac, iPad, or Vision Pro. Built to streamline compliance work while using the Apple ecosystem with full support for XCCDF-format STIGs.
     </p>
   </div>
 </div>
