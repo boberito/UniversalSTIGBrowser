@@ -43,7 +43,7 @@ hero:
     <p>Multi-STIG comparison, profile filtering, offline support.</p>
   </div>
   <div class="screenshot-card">
-    <a href="/UniversalSTIGBrowser/images/macOS-screenshot.png" target="_blank"><img src="/images/iPadOS-screenshot.png" alt="iPadOS Screenshot"></a>
+    <a href="/UniversalSTIGBrowser/images/iPadOS-screenshot.png" target="_blank"><img src="/images/iPadOS-screenshot.png" alt="iPadOS Screenshot"></a>
     <h3>iPadOS</h3>
     <p>Touch-optimized STIG reading experience on the go.</p>
   </div>
