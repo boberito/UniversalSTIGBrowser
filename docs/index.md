@@ -31,7 +31,7 @@ hero:
 <div class="feature-highlight">
   <div class="feature-text">
     <h2>Why Universal STIG Browser?</h2>
-    <p>Built for federal IT professionals, security teams, and auditors. Universal STIG Browser simplifies STIG viewing, comparison, and mobility across all Apple platforms.
+    <p>Built for federal IT professionals, security teams, and auditors. Universal STIG Browser simplifies STIG viewing, comparison, and mobility across all Apple platforms.</p>
   </div>
 </div>
 
