@@ -11,7 +11,7 @@ hero:
 
 <!-- App Store Badge -->
 <div class="app-store-badge">
-  <a href="https://apps.apple.com/us/app/universal-stig-browser/idYOUR_APP_ID" target="_blank" rel="noopener">
+  <a href="https://apps.apple.com/us/app/universal-stig-browser/id6745569917" target="_blank" rel="noopener">
     <img class="badge-light" src="/images/app-store-dark.svg" alt="Download on the App Store" height="50">
     <img class="badge-dark" src="/images/app-store-light.svg" alt="Download on the App Store" height="50">
   </a><p style="text-align: left; font-size: 0.95rem; margin-top: 0.5rem;">
