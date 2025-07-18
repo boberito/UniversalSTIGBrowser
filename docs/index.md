@@ -15,7 +15,7 @@ hero:
     <img class="badge-light" src="/images/app-store-dark.svg" alt="Download on the App Store" height="50">
     <img class="badge-dark" src="/images/app-store-light.svg" alt="Download on the App Store" height="50">
   </a><p style="text-align: left; font-size: 0.95rem; margin-top: 0.5rem;">
-  <strong>Requires:</strong> macOS 14+, iPadOS 17+, visionOS 2.0+
+  <strong>Requires:</strong> macOS 14+, iOS 17+, iPadOS 17+, visionOS 2.0+
 </p>
 </div>
 
@@ -32,7 +32,7 @@ hero:
   <div class="feature-text">
     <h2>Why Universal STIG Browser?</h2>
     <p>
-      Designed for federal IT professionals, security teams, and auditors, Universal STIG Browser makes it easy to view, compare, and export <strong>STIGs for all platforms</strong>—Windows, Linux, macOS, and more—on your Mac, iPad, or Vision Pro. Built to streamline compliance work while using the Apple ecosystem with full support for XCCDF-format STIGs.
+      Designed for federal IT professionals, security teams, and auditors, Universal STIG Browser makes it easy to view, compare, and export <strong>STIGs for all platforms</strong>—Windows, Linux, macOS, and more—on your Mac, iPhone, iPad, or Vision Pro. Built to streamline compliance work while using the Apple ecosystem with full support for XCCDF-format STIGs.
     </p>
   </div>
 </div>
@@ -43,6 +43,11 @@ hero:
     <a href="/UniversalSTIGBrowser/images/macOS-screenshot.png" target="_blank"><img src="/images/macOS-screenshot.png" alt="macOS Screenshot"></a>
     <h3>macOS</h3>
     <p>Multi-STIG comparison, profile filtering, offline support.</p>
+  </div>
+  <div class="screenshot-card">
+    <a href="/UniversalSTIGBrowser/images/iphone.png" target="_blank"><img src="/images/iphone.png" alt="iPhone Screenshot"></a>
+    <h3>iOS</h3>
+    <p>Mobile STIG Viewing anywhere you have your iPhone.</p>
   </div>
   <div class="screenshot-card">
     <a href="/UniversalSTIGBrowser/images/iPadOS-screenshot.png" target="_blank"><img src="/images/iPadOS-screenshot.png" alt="iPadOS Screenshot"></a>
