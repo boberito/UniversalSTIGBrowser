@@ -45,7 +45,7 @@ hero:
     <p>Multi-STIG comparison, profile filtering, offline support.</p>
   </div>
   <div class="screenshot-card">
-    <a href="/UniversalSTIGBrowser/images/iphone.png" target="_blank"><img src="/images/iphone.png" alt="iPhone Screenshot"></a>
+    <a href="/UniversalSTIGBrowser/images/iphone.png" target="_blank"><img src="/images/iphone.png" alt="iPhone Screenshot" height="600" width="300"></a>
     <h3>iOS</h3>
     <p>Mobile STIG Viewing anywhere you have your iPhone.</p>
   </div>
