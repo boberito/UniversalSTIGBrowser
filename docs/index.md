@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Universal STIG Browser 1.1"
+  name: "Universal STIG Browser 1.2"
   tagline: Native DISA STIG Viewer for the Apple platform.
   image:
     src: /images/USB.png
@@ -23,7 +23,7 @@ hero:
 <div class="about-section">
   <h2>About Universal STIG Browser</h2>
   <p>
-    Universal STIG Browser is a native Apple platform app that allows users to open, view, filter, and export Security Technical Implementation Guides (STIGs) for <b>all supported platforms</b> — Windows, Linux, macOS, iOS, Android, and more — as published by the Department of Defense (DoD) Defense Information Systems Agency (DISA) for all DISA-supported platforms in XCCDF format on the DoD Cyber Exchange website (<a href="https://public.cyber.mil" target="_blank">https://public.cyber.mil</a>).
+    Universal STIG Browser is a native Apple platform app that allows users to open, view, filter, generate checklist files, and export Security Technical Implementation Guides (STIGs) for <b>all supported platforms</b> — Windows, Linux, macOS, iOS, Android, and more — as published by the Department of Defense (DoD) Defense Information Systems Agency (DISA) for all DISA-supported platforms in XCCDF format on the DoD Cyber Exchange website (<a href="https://public.cyber.mil" target="_blank">https://public.cyber.mil</a>).
   </p>
 </div>
 
@@ -69,6 +69,7 @@ hero:
     <li><strong>Export to HTML:</strong> Export selected rules to HTML.</li>
     <li><strong>Export to PDF:</strong> Export selected rules to PDF.</li>
     <li><strong>Export to CSV:</strong> Export selected rules to CSV.</li>
+    <li><strong>Generate Checklist Files:</strong> Export to CKL or CKLB.</li>
   </ul>
 </div>
 
