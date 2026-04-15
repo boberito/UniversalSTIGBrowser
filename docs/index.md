@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Universal STIG Browser 1.2"
+  name: "Universal STIG Browser 1.3"
   tagline: Native DISA STIG Viewer for the Apple platform.
   image:
     src: /images/USB.png
