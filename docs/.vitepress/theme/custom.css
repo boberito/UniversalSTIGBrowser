@@ -103,7 +103,7 @@
     margin-bottom: auto;
     font-size: 1.1rem;
   }
-  .privacy-info {
+  .privacy-info, .open-source {
     padding: 2rem;
     max-width: auto;
     margin-top: -3rem;
@@ -121,17 +121,24 @@
     margin: auto;
     font-size: 1.1rem;
   }
-  .support-info, .open-source{
+  .support-info {
     padding: 2rem;
     max-width: 800px;
     margin-top: -5rem;
     margin: auto;
     font-size: 1.1rem;
   }
-
+/* .open-source {
+    padding: 2rem;
+    max-width: auto;
+    margin-top: -5rem;
+    margin: auto;
+    font-size: 1.1rem;
+} */
 
 .about-section h2,
-.privacy-info h2 {
+.privacy-info h2,
+.open-source h2 {
   text-align: center;
   margin-bottom: 1rem;
 }
