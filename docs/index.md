@@ -83,3 +83,18 @@ hero:
 <div class="support-info">
   <p style="text-align: center;">For support or feedback, <br>please file an issue on the <a href="https://github.com/boberito/UniversalSTIGBrowser/issues" target="_blank">GitHub page.</a></p>
 </div>
+
+<div class="open-source">
+<p style="text-align: center;"><h2>Open Source Libraries</h2>
+
+Combine Schedulers - MIT License - Copyright (c) 2020 Point-Free, Inc <a href="https://github.com/pointfreeco/combine-schedulers">https://github.com/pointfreeco/combine-schedulers</a><br>
+Fuzi - MIT License - Copyright (c) 2015 Ce Zheng - <a href="https://github.com/pointfreeco/combine-schedulers">https://github.com/pointfreeco/combine-schedulers</a><br>
+Swift Clocks - MIT License - Copyright (c) 2022 Point-Free, Inc <a href="https://github.com/pointfreeco/swift-clocks">https://github.com/pointfreeco/swift-clocks</a><br>
+Swift Concurrency Extras - MIT License - Copyright (c) 2023 Point-Free, Inc <a href="https://github.com/pointfreeco/swift-concurrency-extras">https://github.com/pointfreeco/swift-concurrency-extras</a><br>
+Swift Dependencies - MIT License - Copyright (c) 2022 Point-Free, Inc <a href="https://github.com/pointfreeco/swift-dependencies">https://github.com/pointfreeco/swift-dependencies</a><br>
+Swift HTML to PDF - Apache 2.0 License - Copyright (c) 2025 Coenttb - <a href="https://github.com/coenttb/swift-html-to-pdf">https://github.com/coenttb/swift-html-to-pdf</a><br>
+Xctest Dynamic Overlay - MIT License - Copyright (c) 2021 Point-Free, Inc <a href="https://github.com/pointfreeco/swift-issue-reporting">https://github.com/pointfreeco/swift-issue-reporting</a><br>
+ZIPFoundation - MIT License - Copyright (c) 2026 - Thomas Zoechling <a href="https://github.com/weichsel/ZIPFoundation">https://github.com/weichsel/ZIPFoundation</a><br>
+</p>
+</div>
+

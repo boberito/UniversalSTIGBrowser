@@ -121,13 +121,14 @@
     margin: auto;
     font-size: 1.1rem;
   }
-  .support-info {
+  .support-info, .open-source{
     padding: 2rem;
     max-width: 800px;
     margin-top: -5rem;
     margin: auto;
     font-size: 1.1rem;
   }
+
 
 .about-section h2,
 .privacy-info h2 {
