@@ -113,6 +113,16 @@
     margin-bottom: auto;
     font-size: 1.1rem;
   }
+  .open-source {
+    padding: 2rem;
+    max-width: 800px;
+    margin-top: -3rem;
+    /* margin: auto; */
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    font-size: 1.1rem;
+  }
   .about-section {
     padding: 2rem;
     /* max-width: 800px; */
